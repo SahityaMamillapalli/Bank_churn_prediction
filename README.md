@@ -2,16 +2,16 @@
 This projects is related to employees data how many years they are tie up with company
 
 
-What cool techonologies I have used in this project:
+**What cool techonologies I have used in this project:
 
-1. numpy
-2. pandas
-3.
-
-
+1. Numpy
+2. Pandas
+3. Sklearn and Tensorflow
 
 
-How I can use the experinece from this project in other places :
+
+**How I can use the experinece from this project in other places :
 
 1. I can clean data which looks ugly! 
-2.  I can manipulate the dataframe for time series data
+2. I can manipulate the dataframe for time series data
+3. I can handle the imbalanced data using some techniques like UndersSampling , OverSampling , Smote etc
