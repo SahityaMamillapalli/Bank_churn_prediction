@@ -1,5 +1,5 @@
 # Bank_churn_prediction
-This projects is related to employees data how many years they are tie up with company
+This project measures how and why are customers leaving the business.
 
 
 **What cool techonologies I have used in this project:
