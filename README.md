@@ -2,7 +2,7 @@
 This project measures how and why are customers leaving the business.
 
 
-**What cool techonologies I have used in this project:
+**What cool techonologies I have used in this project:**
 
 1. Numpy
 2. Pandas
@@ -10,7 +10,7 @@ This project measures how and why are customers leaving the business.
 
 
 
-**How I can use the experinece from this project in other places :
+**How I can use the experinece from this project in other places :**
 
 1. I can clean data which looks ugly! 
 2. I can manipulate the dataframe for time series data
